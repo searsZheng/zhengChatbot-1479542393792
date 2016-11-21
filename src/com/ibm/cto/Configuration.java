@@ -21,11 +21,11 @@ public class Configuration {
 	/**
 	 * TODO: If you're testing this application locally, please get the credentials from Bluemix
 	 */
-	public String TEXT_TO_SPEECH_USERNAME = "9d6c316e-0bf2-4efa-b8a6-a2ce3ede9294";
-	public String TEXT_TO_SPEECH_PASSWORD = "nBbf7ckbPvIY";
+	public String TEXT_TO_SPEECH_USERNAME = "";
+	public String TEXT_TO_SPEECH_PASSWORD = "";
 
-	public String SPEECH_TO_TEXT_USERNAME = "de1b4ad3-3adb-450f-b54a-3bc1090881d6";
-	public String SPEECH_TO_TEXT_PASSWORD = "jG3Udimr3PRQ";
+	public String SPEECH_TO_TEXT_USERNAME = "";
+	public String SPEECH_TO_TEXT_PASSWORD = "";
 
 	public String CONVERSATION_USERNAME = "";
 	public String CONVERSATION_PASSWORD = "";
